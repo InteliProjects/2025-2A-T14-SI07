@@ -3,10 +3,10 @@
 </div>
 
 
-# 🙋 2025.3  - Módulo 07:  - Turma 14  - G2
+# 🙋 2025.3  - Módulo 07: Sistema empresarial integrado - Turma 14  - G2
 
 
-## 🎯 O objetivo:
+## 🎯 O objetivo: Realizar a implantação de um sistema ERP (SAP Business One) em um cliente piloto com processos reais.
 
 ## 💻 Projetos Desenvolvidos: 
 
